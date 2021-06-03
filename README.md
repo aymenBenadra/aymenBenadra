@@ -13,17 +13,16 @@
 ```javascript
 const aymenBenadra = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C", "C#", "Java", "PHP"],
-    askMeAbout: ["Anime", "Web Dev", "Tech", "App Dev"],
+    birthDayTimestamp: 961483154,
+    code: ["Javascript", "Typescript", "C", "C#", "PHP"],
+    askMeAbout: ["Anime", "Web Development", "Tech & IT", "App Development"],
     contactMe: {
         mail: ["aymanbenadra16@gmail.com"],
-        linkedIn: ["http://linkedin.com/in/mohammed-aymen-benadra"],
-        mobile: ["+212627729245", "+14803006787"]
+        linkedIn: ["http://linkedin.com/in/mohammed-aymen-benadra"]
     },
     technologies: {
-        mobile: ["React Native", "Java", "XML"],
+        mobile: ["React Native"],
         software: {
-            c#: ["ADO.Net", "WPF"],
             js: ["Electron"]
         },
         frontEnd: {
