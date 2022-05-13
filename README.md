@@ -1,47 +1,38 @@
 <h1 align="center">Hello There!!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h1>
-<h2 align="center">I'm a Full-Stack Software Developer</h2>
-<!--
-<p align="center">
-  <a href="https://github.com/aymenBenadra"><img src="https://github-readme-stats.vercel.app/api?username=aymenBenadra&hide_border=true&show_icons=true" alt="Mohammed-Aymen Benadra's github stats"></a>
-</p>
--->
+<h2 align="center">I'm a Full-Stack Web Developer</h2>
 
+<p align="center"><a href="https://github.com/aymenBenadra"><img src="https://github-readme-stats.vercel.app/api?username=aymenBenadra&hide_border=true&show_icons=true" alt="Mohammed-Aymen Benadra's github stats" width="500" align="center"></a></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<!--<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="250" style="z-index:20; position: absolute;">-->
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> A little more about me...  
 ```javascript
 const aymenBenadra = {
     pronouns: "He" | "Him",
     birthDayTimestamp: 961483154,
-    code: ["Javascript", "Typescript", "C", "C#", "PHP"],
-    askMeAbout: ["Anime", "Web Development", "Tech & IT", "App Development"],
+    code: ["PHP", "Javascript", "Typescript", "C"],
+    askMeAbout: ["Web Dev", "Software Dev", "Tech & IT", "Anime", "Manga"],
     contactMe: {
         mail: ["aymanbenadra16@gmail.com"],
         linkedIn: ["http://linkedin.com/in/mohammed-aymen-benadra"]
     },
     technologies: {
-        mobile: ["React Native"],
-        software: {
-            js: ["Electron"]
-        },
+        modelization: ["UML", "Merise", "ERD"],
         frontEnd: {
-            js: ["React", "Redux", "jQuery"],
-            css: ["Bootstrap", "Foundation", "Reactstrap", "SASS", "LESS"]
+            html: ["Pug.js", "Bootstrap", "Blade", "JSX", "XML"],
+            js: ["React.js", "Vue.js", "jQuery"],
+            css: ["TailwindCSS", "SASS"]
         },
         backEnd: {
-            js: ["Nodejs", "Express.js"],
-            php: ["Laravel", "Code Igniter", "Symfony"],
-            c#: ["Ado.Net", "ASP.Net"]
+            php: ["Laravel"]
         },
-        testing: ["Jest", "Enzyme"],
-        databases: ["Firebase", "MongoDB", "Mongoose", "MySql", "Sqlite", "SqlServer", "PostgreSQL"],
+        versionControl: ["Git", "Github"],
+        databases: ["MySql", "Sqlite", "PostgreSQL"],
         api: ["REST", "JSON"],
-        misc: ["Bash", "Data Structures", "Algorithms", "UML", "Merise", "EJS", "Git", "Github", "Entity Framework", "JSX"],
+        packageManagers: ["Composer", "NPM", "Yarn", "PNPM"],
         os: ["Windows", "MacOS", "Ubuntu"]
     },
-    architecture: ["Progressive web applications", "Single page applications", "MVC Architecture", "Event-Driven Architecture"],
-    currentFocus: "Sharpening my skills in Full-stack web development and testing",
-    funFact: "When you spill coffee on your laptop and aggressively press Ctrl+Z to undo the error (true story -_- )"
+    architecture: ["Progressive Web Apps(PWA)", "Single page Apps(SPA)", "MVC", "Event-Driven"],
+    currentFocus: "Sharpening my skills in Backend development",
 };
 ```
