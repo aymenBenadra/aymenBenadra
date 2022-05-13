@@ -17,22 +17,23 @@ const aymenBenadra = {
         linkedIn: ["http://linkedin.com/in/mohammed-aymen-benadra"]
     },
     technologies: {
-        modelization: ["UML", "Merise", "ERD"],
-        frontEnd: {
-            html: ["Pug.js", "Bootstrap", "Blade", "JSX", "XML"],
-            js: ["React.js", "Vue.js", "jQuery"],
-            css: ["TailwindCSS", "SASS"]
-        },
+        api: ["REST", "JSON"],
+        architecture: ["MVC", "Single page Apps(SPA)", "Event-Driven"],
+        auth: ["JWT", "Session-based", "Third-party-based"],
         backEnd: {
             php: ["Laravel"]
         },
-        versionControl: ["Git", "Github"],
         databases: ["MySql", "Sqlite", "PostgreSQL"],
-        api: ["REST", "JSON"],
+        frontEnd: {
+            html: ["Pug.js", "Bootstrap", "Blade", "JSX", "XML", "DaisyUI"],
+            js: ["React.js", "Vue.js", "jQuery"],
+            css: ["TailwindCSS", "SASS"]
+        },
+        modelization: ["UML", "Merise", "ERD"],
         packageManagers: ["Composer", "NPM", "Yarn", "PNPM"],
-        os: ["Windows", "MacOS", "Ubuntu"]
+        versionControl: ["Git", "Github"]
     },
-    architecture: ["Progressive Web Apps(PWA)", "Single page Apps(SPA)", "MVC", "Event-Driven"],
-    currentFocus: "Sharpening my skills in Backend development",
+    os: ["Windows", "MacOS", "Ubuntu"],
+    currentFocus: "Sharpening my skills in Backend development"
 };
 ```
