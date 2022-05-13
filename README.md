@@ -1,8 +1,6 @@
 <h1 align="center">Hello There!!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h1>
 <h2 align="center">I'm a Full-Stack Web Developer</h2>
 
-<p align="center"><a href="https://github.com/aymenBenadra"><img src="https://github-readme-stats.vercel.app/api?username=aymenBenadra&hide_border=true&show_icons=true" alt="Mohammed-Aymen Benadra's github stats" width="500" align="center"></a></p>
-
 <img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> A little more about me...  
@@ -37,3 +35,4 @@ const aymenBenadra = {
     currentFocus: "Sharpening my skills in Backend development"
 };
 ```
+<p align="center"><a href="https://github.com/aymenBenadra"><img src="https://github-readme-stats.vercel.app/api?username=aymenBenadra&hide_border=true&show_icons=true" alt="Mohammed-Aymen Benadra's github stats" width="500" align="center"></a></p>
