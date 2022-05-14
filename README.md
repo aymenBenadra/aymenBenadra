@@ -12,14 +12,14 @@ const aymenBenadra = {
     askMeAbout: ["Web Dev", "Software Dev", "Tech & IT", "Anime", "Manga"],
     contactMe: {
         mail: ["aymanbenadra16@gmail.com"],
-        linkedIn: ["http://linkedin.com/in/mohammed-aymen-benadra"]
+        linkedIn: ["http://linkedin.com/in/aymenBenadra"]
     },
     technologies: {
-        api: ["REST", "JSON"],
+        api: ["REST", "JSON", "Postman", "Swagger", "OpenAPI"],
         architecture: ["MVC", "Single page Apps(SPA)", "Event-Driven"],
         auth: ["JWT", "Session-based", "Third-party-based"],
         backEnd: {
-            php: ["Laravel"]
+            php: ["Laravel", ]
         },
         databases: ["MySql", "Sqlite", "PostgreSQL"],
         frontEnd: {
